@@ -1,7 +1,7 @@
 - 👋 oi eu sou o @nimaste - hi i'm @nimaste
 - 👀 eu gosto de progmar em python e pretendo aprender java
 - 👀 i love to use python and i want to learn java in the future
-- 🌱 como dito anterior mente eu estou aprendedo Java
+- 🌱 como dito anteriormente eu estou aprendedo Java
 - 🌱 How i said before i'm learning Java in this moment
 - 😄 Pronomes: Ele Dele
 - 😄 Pronoum: He him
